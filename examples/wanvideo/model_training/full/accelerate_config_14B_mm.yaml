@@ -1,0 +1,16 @@
+compute_environment: LOCAL_MACHINE
+deepspeed_config:
+  deepspeed_config_file: examples/wanvideo/model_training/full/ds.json
+  deepspeed_hostfile: ''
+  deepspeed_multinode_launcher: standard
+  zero3_init_flag: false
+distributed_type: DEEPSPEED
+downcast_bf16: 'no'
+enable_cpu_affinity: false
+main_training_function: main
+rdzv_backend: static
+same_network: false
+tpu_env: []
+tpu_use_cluster: false
+tpu_use_sudo: false
+use_cpu: false
