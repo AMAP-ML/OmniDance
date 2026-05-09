@@ -1,26 +1,29 @@
 <p align="center">
   <h1 align="center">🎵 OmniDance</h1>
   <h3 align="center">OmniDance: Multimodal Driven Dance Video Generation with Large-scale Internet Data</h3>
-  <p align="center">
-      Kaixing Yang<sup>1</sup> ·
-      Jiashu Zhu<sup>2</sup> ·
-      Xulong Tang<sup>5</sup> ·
-      Ziqiao Peng<sup>1</sup> ·
-      Xiangyue Zhang<sup>4</sup>
-      Chubin Chen<sup>3</sup>
-      <br>
-      Puwei Wang<sup>1*</sup> ·
-      Jiahong Wu<sup>2*</sup> ·
-      Xiangxiang Chu<sup>2</sup> ·
-      Hongyan Liu<sup>3*</sup> ·
-      Jun He<sup>1*</sup>
-      <br><br>
-      <sup>1</sup>Renmin University of China &nbsp;
-      <sup>2</sup>AMap, Alibaba &nbsp;
-      <sup>3</sup>Tsinghua University &nbsp;
-      <sup>4</sup>Wuhan University &nbsp;
-      <sup>5</sup>Malou Tech Inc
-  </p>
+<p align="center">
+    Kaixing Yang<sup>1</sup> ·
+    Jiashu Zhu<sup>2,*</sup> ·
+    Xulong Tang<sup>5</sup> ·
+    Ziqiao Peng<sup>1</sup> ·
+    Xiangyue Zhang<sup>4</sup> ·
+    Chubin Chen<sup>3</sup>
+    <br>
+    Puwei Wang<sup>1,†</sup> ·
+    Jiahong Wu<sup>2,†</sup> ·
+    Xiangxiang Chu<sup>2</sup> ·
+    Hongyan Liu<sup>3</sup> ·
+    Jun He<sup>1,†</sup>
+    <br><br>
+    <sup>1</sup>Renmin University of China &nbsp;
+    <sup>2</sup>AMap, Alibaba &nbsp;
+    <sup>3</sup>Tsinghua University &nbsp;
+    <sup>4</sup>Wuhan University &nbsp;
+    <sup>5</sup>Malou Tech Inc
+    <br><br>
+    <sup>*</sup>Project Leader &nbsp;
+    <sup>†</sup>Corresponding Authors
+</p>
 <div align="center">
 
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-OmniDance-orange?style=for-the-badge)](https://huggingface.co/datasets/GD-ML/OmniDance)
