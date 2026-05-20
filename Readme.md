@@ -12,8 +12,8 @@
     Puwei Wang<sup>1,†</sup> ·
     Jiahong Wu<sup>2,†</sup> ·
     Xiangxiang Chu<sup>2</sup> ·
-    Hongyan Liu<sup>3</sup> ·
-    Jun He<sup>1,†</sup>
+    Hongyan Liu<sup>3,†</sup> ·
+    Jun He<sup>1</sup>
     <br><br>
     <sup>1</sup>Renmin University of China &nbsp;
     <sup>2</sup>AMap, Alibaba &nbsp;
@@ -28,7 +28,7 @@
 
 [![Dataset](https://img.shields.io/badge/🤗%20Dataset-OmniDance-orange?style=for-the-badge)](https://huggingface.co/datasets/GD-ML/OmniDance)
 [![Model](https://img.shields.io/badge/🧠%20Model%20Weights-OmniDance-yellow?style=for-the-badge)](https://huggingface.co/GD-ML/OmniDance)
-[![Status](https://img.shields.io/badge/Status-Research-success?style=for-the-badge)](#)
+[![Project Page](https://img.shields.io/badge/PROJECT_PAGE-OmniDance-blue?style=for-the-badge)](https://sun-happy-ykx.github.io/OmniDance/)
 
 </div>
 
